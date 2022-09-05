@@ -1,0 +1,40 @@
+body{
+    background-color: white;
+
+}
+
+#titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+.navbar{
+
+
+}
+
+.logo{
+    width: 100px;
+
+}
+
+.cor-menu{
+    background-color:black;
+    
+}
+
+#navbarNav a{
+    color: white;
+}
+
+#promoçao{
+   color: black;
+
+}
+
+#image_pizza{
+    width: 1250px;
+
+
+}
